@@ -14,7 +14,8 @@ avatar: http://orig08.deviantart.net/dee2/f/2012/025/c/7/cool_link_avatar_by_phe
 #
 # Flags below are optional
 #
-
+post_assets: images
+general_assets: images
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
