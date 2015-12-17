@@ -27,16 +27,7 @@ body {
     height: 100px;
     background-color: red;
     
-    -webkit-animation-name:creatures.org/anan/Dog_Dalmatian_runs.gif ; /* Chrome, Safari, Opera */
-    -webkit-animation-duration: 4s; /* Chrome, Safari, Opera */
-    animation-name:creatures.org/anan/Dog_Dalmatian_runs.gif ;
-    animation-duration: 4s;
-}
-
-/* Chrome, Safari, Opera */
-@-webkit-keyframes example {
-    from {background-color: red;}
-    to {background-color: yellow;}
+    
 }
 
 /* Standard syntax */
