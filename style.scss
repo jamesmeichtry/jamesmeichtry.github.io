@@ -18,10 +18,9 @@ html {
 }
 
 body {
-	background: #ff0000;
-  font: 18px/1.4 $helvetica;
-  color: #000000;
 
+    background: url(http://coolchaser-static.coolchaser.com/images/themes/t/161500-i91.photobucket.com-albums-k297-45steve-flashingstar-1.gif);
+    padding: 15px;
  ;
 }    width: 100px;
     height: 100px;
@@ -97,8 +96,7 @@ ul, ol {
 ul {
   list-style-type: disc;
 }
-    background: url(http://coolchaser-static.coolchaser.com/images/themes/t/161500-i91.photobucket.com-albums-k297-45steve-flashingstar-1.gif);
-    padding: 15px;
+
 ol {
   list-style-type: decimal;
 }
