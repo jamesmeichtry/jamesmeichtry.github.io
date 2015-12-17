@@ -28,15 +28,11 @@ body {
     background-color: red;
     
     
+} {
+    border: 1px solid black;
+    outline-color:red;
 }
-
-/* Standard syntax */
-@keyframes example {
-    from {background-color: red;}
-    to {background-color: yellow;}
-}
-</style>
-</head>
+p.dotted {outline-style: dotted
 
 
 .container {
