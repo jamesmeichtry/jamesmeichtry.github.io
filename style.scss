@@ -18,16 +18,9 @@ html {
 }
 
 body {
-
-        background: #ff0000;
+       background: #ff0000;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
-
-    } {
-    border: 1px solid black;
-    outline-color:#000080;
-=
-
 
 .container {
   margin: 0 auto;
@@ -141,7 +134,7 @@ img {
 // http://nicolasgallagher.com/micro-clearfix-hack/
 .clearfix:before,
 .clearfix:after {
-    content: " ";
+    content:;
     display: table;
 }
 
