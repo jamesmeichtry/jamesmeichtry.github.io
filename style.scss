@@ -19,7 +19,9 @@ html {
 
 body {
         background-image: url ("zh9kser.gif");
-}
+         font: 18px/1.4 $helvetica;
+         color: $darkGray;
+	}
 
 .container {
   margin: 0 auto;
