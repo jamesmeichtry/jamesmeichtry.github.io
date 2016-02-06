@@ -12,7 +12,7 @@ During last lesson we learnt that social media can help you and be dangerous at 
 
 We had a look at some examples and had to sort them out bad to worse:
 
-* one of our worst ones was that 'If you post that you are going on holiday to somewhere',we thought this one was bad because the people who sore that message could if they know where you live burgal you or damage your propety.
+* one of our worst ones was that 'If you post that you are going on holiday to somewhere',we thought this one was bad because the people who sore that message could if they know where you live burgal you or damage your property.
 
 * Are best one was 'sharing a funny picture of a cat/animal', we put this one this low because there is no personal information and there’s nothing dangerous about it.
 
