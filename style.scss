@@ -219,7 +219,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #ff0000;
+  color: white;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -229,7 +229,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: #3399ff;
+  color: white;
   font-size: 16px;
 
   @include mobile {
@@ -281,9 +281,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid white;
     padding: 0.1em 1em;
-    color: #0033cc;
+    color: white;
     font-size: 22px;
     font-style: italic;
   }
@@ -302,7 +302,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: white;
 }
 
 footer {
