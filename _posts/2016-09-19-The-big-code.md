@@ -8,52 +8,52 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
-    <td>First exercise</td>
-    <td>Date</td>
-    <td>02/10/16</td>
+    <th>Title</th>
+    <th>First exercise</th>
+    <th>Date</th>
+    <th>02/10/16</th>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Starting point:</td>
-    <td>To carry on with our progress </td>
+    <th>Starting point:</th>
+    <th>To carry on with our progress </th>
   </tr>
   <tr>
-    <td>Target for this lesson?</td>
-    <td>To have a Github Pages Static Website</td>
+    <th>Target for this lesson?</th>
+    <th>To have a Github Pages Static Website</th>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
-    <td>Yes we did a lot of work</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
+    <th>Yes we did a lot of work</th>
   </tr>
 </table>
 
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
-    <td>I learnt the basic idea of our coding box and started our first bit of coding. We were very successful and completed a task, after completing that task we changed the code up to see what the effect would be.</td>
+    <th>I learnt the basic idea of our coding box and started our first bit of coding. We were very successful and completed a task, after completing that task we changed the code up to see what the effect would be.</th>
   </tr>
   <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
   </tr>
   <tr>
-    <td>I need to speed up with my work a bit to make sure i do as much work as i can. Sometimes the HDMI lead loses connection and you have to unplug it and then plug it back in or try something else because that doesn't work sometimes.</td>
+    <th>I need to speed up with my work a bit to make sure i do as much work as i can. Sometimes the HDMI lead loses connection and you have to unplug it and then plug it back in or try something else because that doesn't work sometimes.</th>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <td>I will change my work to see if there was any more possibilities and find out which ones help and our the best. I will see if there is a way to fully reconnect the HDMI lead so it stops disconnecting and stays connected.</td>
+    <th>I will change my work to see if there was any more possibilities and find out which ones help and our the best. I will see if there is a way to fully reconnect the HDMI lead so it stops disconnecting and stays connected.</th>
   </tr>
 </table>
 
