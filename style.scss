@@ -90,13 +90,13 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #e63900;
+  color: white;
 }
 
 
 
 a {
-  color:  #3399ff;
+  color:  white;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
@@ -150,11 +150,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: $lightGray;
+  background: white;
 }
 ::selection {
   color: $black;
-  background: $lightGray;
+  background: white;
 }
 
 // Nicolas Gallagher's micro clearfix hack
@@ -165,19 +165,6 @@ img {
     display: table;
 }
 
-#rcorners3 {
-    border-radius: 25px;
-    background: url(paper.gif);
-    background-position: left top;
-    background-repeat: repeat;
-    padding: 20px;
-    width: 200px;
-    height: 150px;
-
-.clearfix:after {
-    clear: both;
-}
-
 /*********************/
 /* LAYOUT / SECTIONS */
 /*********************/
@@ -185,7 +172,6 @@ img {
 //
 // .masthead
 //
-
 .wrapper-masthead {
   margin-bottom: 50px;
 }
@@ -261,7 +247,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: white;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
@@ -279,7 +265,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid #3399ff;
+  border-bottom: 1px solid white;
 }
 
 .posts > .post:last-child {
