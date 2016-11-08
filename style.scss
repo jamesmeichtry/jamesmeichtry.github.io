@@ -61,7 +61,7 @@ vertical-align: middle;
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: red;
+  color: white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -76,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: red;
+    color: white;
   }
 }
 
@@ -100,7 +100,7 @@ a {
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color:  #3399ff;
+    color:  white;
   }
 }
 
@@ -144,7 +144,7 @@ img {
 
 .date {
   font-style: italic;
-  color: #3399ff;
+  color: white;
 }
 
 // Specify the color of the selection
