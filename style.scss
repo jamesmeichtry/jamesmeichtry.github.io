@@ -23,7 +23,8 @@ body {
 	background-color: black;
          font: 18px/1.4 $helvetica;
          color: white;
-	}
+	p.outset {border-style: outset;}
+}
 	
 table {
 border-collapse: collapse;
