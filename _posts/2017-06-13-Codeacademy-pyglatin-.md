@@ -10,3 +10,4 @@ In pyglatin you have to change the word through, for example i made it lower cas
 
 After that i started functions this is when you add a word onto something to explain the function. You would put define and then what you are going to define on the line below. I did not have to use previous knowledge in the first bit of functions but i am sure i will hate to in the harder exercises. 
 
+<img src="https://github.com/jackm245/jackm245.github.io/blob/master/images/pyglatin.png?raw=true">
